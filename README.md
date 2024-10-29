@@ -50,7 +50,7 @@ El análisis de datos sobre la radiación en México es un paso crucial para com
 🔗https://colab.research.google.com/drive/1EKhSESHtbkUAkZ7qXqCobviNByot5Xe7?usp=sharing
 
 -Documento en Google Docs o Word que describa el proceso y los resultados del análisis.
-🔗
+🔗https://docs.google.com/document/d/1BuI41HnzmiZ1FEM2b0P9G3pszq_cyHcir4yDfntNXBI/edit?usp=sharing
 
 -Presentación en PowerPoint con un resumen de los hallazgos y las recomendaciones.
 🔗https://www.canva.com/design/DAGUzjfN-9g/DQXAixVmgPVrqOlwfkq8dA/edit?
