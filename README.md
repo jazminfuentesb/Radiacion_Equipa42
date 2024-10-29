@@ -53,4 +53,5 @@ El análisis de datos sobre la radiación en México es un paso crucial para com
 🔗https://docs.google.com/document/d/1BuI41HnzmiZ1FEM2b0P9G3pszq_cyHcir4yDfntNXBI/edit?usp=sharing
 
 -Presentación en PowerPoint con un resumen de los hallazgos y las recomendaciones.
+
 🔗https://www.canva.com/design/DAGUzjfN-9g/DQXAixVmgPVrqOlwfkq8dA/edit?
